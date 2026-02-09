@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on **sentiment analysis of Twitter data** using **Machine Learning techniques**.  
-The goal is to classify tweets into **Positive, Negative, or Neutral sentiments** by applying natural language processing (NLP) and supervised learning models.
+The goal is to classify tweets into **Positive or Negative sentiments** by applying natural language processing (NLP) and supervised learning models.
 
 The project demonstrates the **end-to-end ML workflow**:
 - Data preprocessing
@@ -28,12 +28,10 @@ The project demonstrates the **end-to-end ML workflow**:
 - **Libraries:**
   - NumPy
   - Pandas
-  - Matplotlib
-  - Seaborn
   - Scikit-learn
   - NLTK
 - **ML Algorithms:**
   - Logistic Regression
-  - Naive Bayes (if used)
+    
 - **IDE/Environment:** Jupyter Notebook
 
